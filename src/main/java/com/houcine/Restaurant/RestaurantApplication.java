@@ -1,4 +1,4 @@
-package com.houcine.Restauramt;
+package com.houcine.Restaurant;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
