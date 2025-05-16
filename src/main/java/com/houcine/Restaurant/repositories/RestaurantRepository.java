@@ -1,8 +1,7 @@
-package com.houcine.Restauramt.respositories;
+package com.houcine.Restaurant.respositories;
 
-import com.houcine.Restauramt.domain.entities.Restaurant;
+import com.houcine.Restaurant.domain.entities.Restaurant;
 import org.springframework.data.elasticsearch.repository.ElasticsearchRepository;
-import org.springframework.stereotype.Repository;
 
 public interface RestaurantRepository extends ElasticsearchRepository<Restaurant, String> {
 
